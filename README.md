@@ -14,4 +14,4 @@ Skilled in SQL, Power BI, Excel, Python and interests in data cleaning, visualiz
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijrastogi16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kshitijrastogi16&icon=5&color=0)](https://visitcount.itsvg.in)
+## [![](https://visitcount.itsvg.in/api?id=kshitijrastogi16&icon=5&color=0)](https://visitcount.itsvg.in)
