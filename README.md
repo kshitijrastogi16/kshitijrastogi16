@@ -1,4 +1,4 @@
-# Kshitij Rastogi (Ksh)
+# Kshitij Rastogi
 
 Aspiring **Data Scientist** | Passed out from **SRM University** | Interned at **ACG World** & **Allen Career Institute**
 
