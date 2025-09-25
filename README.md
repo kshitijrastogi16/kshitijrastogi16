@@ -32,5 +32,4 @@ I am passionate about leveraging **data and AI** to solve real-world problems. E
 
 ## Contact
 
-* **LinkedIn:** [linkedin.com/in/kshitij-rastogi](https://www.linkedin.com/in/kshitijrastogi16/)
-* **GitHub:** [github.com/yourusername](https://github.com/kshitijrastogi16)
+* **LinkedIn:** [https://www.linkedin.com/in/kshitijrastogi16]
