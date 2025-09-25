@@ -1,20 +1,36 @@
+# Kshitij Rastogi (Ksh)
 
-[![](https://visitcount.itsvg.in/api?id=kshitijrastogi16&icon=5&color=0)](https://visitcount.itsvg.in)
+Aspiring **Data Scientist** | Passed out from **SRM University** | Interned at **ACG World** & **Allen Career Institute**
+
 ---
 
+## About Me
 
+I am passionate about leveraging **data and AI** to solve real-world problems. Experienced in **machine learning, LLM integration, and data pipelines**, I enjoy building scalable, production-ready projects while continuously learning and exploring new technologies.
 
-# 💫 About Me:
-Skilled in SQL, Power BI, Excel, Python and interests in data cleaning, visualization, and statistical analysis.
+* **Education:** SRM University, CGPA: 9.36
+* **Interests:** Data Science, AI/ML, Industrial IoT, Image Processing
+* **Other Interests:** Football, Music, Travel, and Food
 
+---
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ohkshitijjj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-rastogi-3ab421222/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ohkshitijjj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ohkshitijjj) 
+## Skills
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+* **Programming & Data:** Python, SQL, Pandas, NumPy, Scikit-learn
+* **AI/ML:** LLMs, RAG systems, Image Annotation & Clustering
+* **Tools & Platforms:** FastAPI, MongoDB, Label Studio, Git
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kshitijrastogi16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kshitijrastogi16&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijrastogi16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+## Key Projects
+
+1. **VANI:** RAG System based on Valmiki Ramayana.
+2. **Industrial IoT Microservices Architecture:** Real-time sensor data collection and monitoring with FastAPI & MQTT.
+3. **AI Safety Project:** Image clustering & annotation pipeline to improve workplace safety compliance.
+
+---
+
+## Contact
+
+* **LinkedIn:** [linkedin.com/in/kshitij-rastogi](https://www.linkedin.com/in/kshitijrastogi16/)
+* **GitHub:** [github.com/yourusername](https://github.com/kshitijrastogi16)
