@@ -8,7 +8,7 @@ Aspiring **Data Scientist** | Passed out from **SRM University** | Interned at *
 
 I am passionate about leveraging **data and AI** to solve real-world problems. Experienced in **machine learning, LLM integration, and data pipelines**, I enjoy building scalable, production-ready projects while continuously learning and exploring new technologies.
 
-* **Education:** SRM University, CGPA: 9.36
+* **Education:** SRM University, CGPA: 9.34
 * **Interests:** Data Science, AI/ML, Industrial IoT, Image Processing
 * **Other Interests:** Football, Music, Travel, and Food
 
@@ -18,7 +18,7 @@ I am passionate about leveraging **data and AI** to solve real-world problems. E
 
 * **Programming & Data:** Python, SQL, Pandas, NumPy, Scikit-learn
 * **AI/ML:** LLMs, RAG systems, Image Annotation & Clustering
-* **Tools & Platforms:** FastAPI, MongoDB, Label Studio, Git
+* **Tools & Platforms:** FastAPI, Label Studio, Git
 
 ---
 
